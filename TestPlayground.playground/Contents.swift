@@ -4,5 +4,5 @@ import UIKit
 
 var test = "test"
 
-let test = test
+let test2 = test
 
