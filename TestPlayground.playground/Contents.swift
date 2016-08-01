@@ -4,4 +4,5 @@ import UIKit
 
 var test = "test"
 
+let test = test
 
